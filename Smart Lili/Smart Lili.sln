@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Lili", "Smart Lili\Smart Lili.csproj", "{CBC71A15-8E0D-4492-AD91-CC0F3DF9CC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC71A15-8E0D-4492-AD91-CC0F3DF9CC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC71A15-8E0D-4492-AD91-CC0F3DF9CC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC71A15-8E0D-4492-AD91-CC0F3DF9CC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC71A15-8E0D-4492-AD91-CC0F3DF9CC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A94885C6-7FE1-4573-A90E-E0FF2A237BAF}
+	EndGlobalSection
+EndGlobal

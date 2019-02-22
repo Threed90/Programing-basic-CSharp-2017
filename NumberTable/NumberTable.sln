@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTable", "NumberTable\NumberTable.csproj", "{351A3D2C-E7DF-4814-BDF3-D80675138045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{351A3D2C-E7DF-4814-BDF3-D80675138045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351A3D2C-E7DF-4814-BDF3-D80675138045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351A3D2C-E7DF-4814-BDF3-D80675138045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351A3D2C-E7DF-4814-BDF3-D80675138045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B246C28-90B7-457D-9DCA-07DE52AC3351}
+	EndGlobalSection
+EndGlobal
